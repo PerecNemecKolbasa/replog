@@ -1,0 +1,11 @@
+{
+  "name": "RepLog — тренировки",
+  "short_name": "RepLog",
+  "description": "Трекер силовых тренировок и прогресса",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c0d0e",
+  "theme_color": "#101112",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
